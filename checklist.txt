@@ -1,0 +1,8 @@
+Les collisions vers le haut et le bas font peu à peu passer le joueur a travers le mur
+
+
+health system and display
+
+deconnection handling
+COre with its health and tiles
+restart game on win
